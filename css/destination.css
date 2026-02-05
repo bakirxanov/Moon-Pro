@@ -43,8 +43,11 @@ a, strong{
     text-decoration: none;
 }
 body{
-  /* background-image: ; */
+  background-image: url('/images/Bitmap.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
+ 
 }
 .containers{
     max-width: 1150px;
